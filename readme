@@ -1,0 +1,11 @@
+How to run -->
+
+1) create a .env file and paste below given details
+
+PORT=3000
+MONGO_URL=mongodb+srv://ambularmuser:ambularmPass123@ambularm.trq3xov.mongodb.net/
+HOST_NAME=local
+JWT_SECRET_KEY=salknmeopqei23eri4rfgf
+
+2) npm i
+3) npm start
